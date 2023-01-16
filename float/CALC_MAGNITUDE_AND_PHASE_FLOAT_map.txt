@@ -1,0 +1,5 @@
+calk_float/CALC_MAGNITUDE_AND_PHASE_FLOAT/nfp_add_single --> nfp_add_single
+calk_float/CALC_MAGNITUDE_AND_PHASE_FLOAT/nfp_atan2_single --> nfp_atan2_single
+calk_float/CALC_MAGNITUDE_AND_PHASE_FLOAT/nfp_mul_single --> nfp_mul_single
+calk_float/CALC_MAGNITUDE_AND_PHASE_FLOAT/nfp_sqrt_single --> nfp_sqrt_single
+calk_float/CALC_MAGNITUDE_AND_PHASE_FLOAT --> CALC_MAGNITUDE_AND_PHASE_FLOAT
